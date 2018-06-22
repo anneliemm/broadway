@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  font-family: Helvetica, sans-serif;
+  font-family: "Helvetica", sans-serif;
 
 }
 .backgroundimage {
@@ -31,11 +31,13 @@ p {
 }
 .footer {
   text-align: left;
-  font-size: 11px;
   color: white;
   background-color: dimgray;
 }
-a {
+#small {
+  font-size: 11px;
+}
+.nav {
   font-size: 18px;
   color: white;
 }
